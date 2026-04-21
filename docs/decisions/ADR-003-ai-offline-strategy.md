@@ -28,7 +28,7 @@ Activated when device has GPU/NPU:
 - Does not require internet
 
 ### Tier 3 — Cloud Intelligence (When Connected)
-Claude API + remote backends:
+Byngox Prime + remote backends:
 - Deep reasoning and complex diagnosis
 - Large medical knowledge queries
 - Continuous learning and model updates
@@ -40,7 +40,7 @@ Claude API + remote backends:
 
 ## Runtime Stack
 ```
-Tier 3: Claude API (Anthropic) ←— internet required
+Tier 3: Byngox Prime vLLM (self-hosted) ←— enhanced connectivity
     ↑ fallback
 Tier 2: Local large model (llama.cpp / GPU)
     ↑ fallback  

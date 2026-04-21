@@ -39,3 +39,18 @@ docs/
 - AI → Offline-first, tiered intelligence (local → enhanced → cloud)
 
 © 2026 Sorabbyngo Company. All rights reserved.
+
+## OS Surfaces (ADR-004)
+
+All OS surfaces share the Sorabbyngo AI Kernel as root base.
+
+| OS Surface | Target | Key Requirement | Status |
+|---|---|---|---|
+| Sorabbyngo OS | Base / development | Current build target | 🔧 In development |
+| Novela OS | Medical / clinical | PREEMPT_RT real-time | 🔜 Planned |
+| Byngo OS | Consumer devices | Android compatibility | 🔜 Planned |
+| Edge OS | IoT / drones / vehicles | Minimal footprint | 🔜 Planned |
+| Sentinel OS | Cybersecurity ops | Hardened kernel | 🔜 Planned |
+| Server OS | Infrastructure | High throughput | 🔜 Planned |
+
+See [ADR-004](docs/decisions/ADR-004-kernel-ecosystem-strategy.md) for full rationale.
