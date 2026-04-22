@@ -27,7 +27,7 @@ Activated when device has GPU/NPU:
 - More accurate health insights
 - Does not require internet
 
-### Tier 3 — Cloud Intelligence (When Connected)
+### Tier 3 — Enhanced Intelligence (Byngox Prime, When Connected)
 Byngox Prime + remote backends:
 - Deep reasoning and complex diagnosis
 - Large medical knowledge queries
