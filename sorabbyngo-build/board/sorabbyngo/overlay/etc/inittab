@@ -1,0 +1,4 @@
+::sysinit:/etc/init.d/rcS
+tty1::respawn:/opt/sorabbyngo/start.sh
+::ctrlaltdel:/sbin/reboot
+::shutdown:/bin/umount -a -r
