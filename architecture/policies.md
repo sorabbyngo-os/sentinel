@@ -1,15 +1,10 @@
 # Security Policies
 
-Policies define acceptable behavior.
+Policies control:
 
-Examples
-
-- Application permissions
-- Device permissions
-- Network permissions
-- Agent permissions
-- File access
+- Execution permissions
 - Resource limits
-- Encryption requirements
-
-Policies are enforced together with CML.
+- Device access
+- Network access
+- AI permissions
+- Cryptographic requirements

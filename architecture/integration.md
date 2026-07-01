@@ -4,7 +4,7 @@ HAL
 Hardware integrity
 
 Byngonet
-Secure networking
+Secure communication
 
 Byngox
 Threat reasoning
@@ -15,5 +15,5 @@ User notifications
 CML
 Policy validation
 
-Sorabbyngo OS
-Kernel security
+Sorabbyngo Core
+Shared interfaces

@@ -1,27 +1,13 @@
 # Security Model
 
-Sentinel follows a layered defense strategy.
+Security Layers
 
-Layer 1
-Device Trust
+1. Hardware Integrity
+2. Operating System Integrity
+3. Process Monitoring
+4. Network Protection
+5. Behaviour Analysis
+6. Policy Enforcement
+7. Incident Response
 
-Layer 2
-Kernel Monitoring
-
-Layer 3
-Process Monitoring
-
-Layer 4
-Memory Protection
-
-Layer 5
-Network Protection
-
-Layer 6
-Behavior Analysis
-
-Layer 7
-Policy Enforcement
-
-Layer 8
-Incident Response
+Every security decision contributes to a continuously updated trust score.

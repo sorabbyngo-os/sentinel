@@ -1,14 +1,13 @@
-# Security Telemetry
+# Telemetry
 
-Sentinel continuously records
+Collected events include:
 
-- Security Events
-- Device Status
-- Network Activity
+- Process activity
 - Authentication
-- Process Activity
-- System Integrity
-- Resource Usage
-- Threat Indicators
+- Network activity
+- Hardware changes
+- Security alerts
+- Policy violations
+- AI agent behaviour
 
-Telemetry is available to authorized components only.
+Telemetry operates offline by default.

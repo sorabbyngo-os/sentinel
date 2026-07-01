@@ -5,10 +5,9 @@ Sentinel detects:
 - Malware
 - Ransomware
 - Rootkits
-- Credential Theft
-- Unauthorized Processes
 - Privilege Escalation
-- Network Attacks
-- Device Impersonation
+- Identity Spoofing
+- Network Intrusion
+- AI Abuse
+- Model Tampering
 - Data Exfiltration
-- Suspicious AI Behavior

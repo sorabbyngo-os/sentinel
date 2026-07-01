@@ -8,11 +8,7 @@ Classification
 
 ↓
 
-Risk Assessment
-
-↓
-
-Isolation
+Containment
 
 ↓
 

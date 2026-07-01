@@ -1,17 +1,12 @@
 # Trust Engine
 
-Every entity receives a trust score.
+Sentinel maintains dynamic trust scores for:
 
-Examples
+- Users
+- Devices
+- Applications
+- Services
+- Agents
+- Network Peers
 
-- User
-- Device
-- Process
-- Network Peer
-- Agent
-- Plugin
-- Application
-
-Trust scores change continuously based on observed behavior.
-
-Sentinel shares trust information with CML and Byngonet.
+Trust changes according to observed behaviour and policy compliance.

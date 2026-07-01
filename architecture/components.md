@@ -1,33 +1,15 @@
 # Components
 
-Monitor
+scanner/
+detectors/
+monitor/
+trust/
+policies/
+response/
+telemetry/
+audit/
+forensics/
+quarantine/
+crypto/
 
-Collects system events.
-
-Scanner
-
-Analyzes files.
-
-Trust Engine
-
-Maintains trust scores.
-
-Behavior Engine
-
-Detects anomalies.
-
-Response Engine
-
-Handles mitigation.
-
-Telemetry
-
-Publishes security events.
-
-Policy Manager
-
-Applies security rules.
-
-Audit Engine
-
-Records security history.
+Each component has a single responsibility and communicates through shared platform interfaces.

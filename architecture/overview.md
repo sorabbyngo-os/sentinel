@@ -1,16 +1,16 @@
 # Sentinel Architecture
 
-Sentinel is responsible for platform-wide security.
+Sentinel is the security subsystem of Sorabbyngo.
 
-It observes system behavior instead of relying solely on malware signatures.
+Responsibilities:
 
-Security decisions are made using behavioral analysis, trust evaluation, policy rules, and AI-assisted reasoning.
+- Threat monitoring
+- Behaviour analysis
+- Trust evaluation
+- Security telemetry
+- Incident response
+- Digital forensics
+- Quarantine
+- Policy enforcement
 
-Sentinel communicates with:
-
-- Sorabbyngo OS
-- HAL
-- Byngonet
-- Byngox
-- Chameha
-- CML
+Sentinel collaborates with HAL, Byngonet, Byngox, Chameha, CML and Sorabbyngo Core.
