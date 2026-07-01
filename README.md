@@ -22,17 +22,6 @@ docs/
 └── architecture/       # System architecture
     └── SYSTEM-OVERVIEW.md
 ```
-
-## Phase Status
-| Phase | Description | Status |
-|---|---|---|
-| 1 | Custom kernel (Linux 6.19.10) | ✅ Complete |
-| 2 | Root filesystem (Buildroot) | 🔜 Next |
-| 3 | Init system (systemd) | 🔜 Planned |
-| 4 | AI runtime layer | 🔜 Planned |
-| 5 | ISO/image builder | 🔜 Planned |
-| 6 | Installer | 🔜 Planned |
-
 ## Core Architecture Decisions
 - Boot → Graphical Chameha (TTY hidden fallback)
 - Novela → Core runs on-device + optional remote backend
